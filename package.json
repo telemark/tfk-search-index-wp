@@ -1,0 +1,54 @@
+{
+  "name": "tfk-search-index-wp",
+  "description": "Search indexer for wp sites",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.10.0"
+  },
+  "scripts": {
+    "test": "standard && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "start": "node index.js",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
+  },
+  "keywords": [
+    "robot",
+    "wp",
+    "search",
+    "index",
+    "Telemark fylkeskommune"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telemark/tfk-search-index-wp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telemark/tfk-search-index-wp/issues"
+  },
+  "homepage": "https://github.com/telemark/tfk-search-index-wp#readme",
+  "devDependencies": {
+    "ava": "0.25.0",
+    "coveralls": "3.0.2",
+    "nyc": "13.0.1",
+    "standard": "12.0.1"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "dotenv": "6.0.0",
+    "jsonwebtoken": "8.3.0",
+    "striptags": "3.1.1",
+    "uuid-random": "1.0.6",
+    "winston": "2.4.4",
+    "winston-papertrail": "1.0.5"
+  }
+}

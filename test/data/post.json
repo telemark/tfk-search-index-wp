@@ -1,0 +1,109 @@
+{
+    "id": 331,
+    "date": "2018-03-16T08:06:15",
+    "date_gmt": "2018-03-16T08:06:15",
+    "guid": {
+      "rendered": "https://posts.pages.com/?p=331"
+    },
+    "modified": "2018-03-26T17:50:02",
+    "modified_gmt": "2018-03-26T17:50:02",
+    "slug": "forste-mote-i-fellesnemda-for-vestfold-og-telemark-fylkeskommune",
+    "status": "publish",
+    "type": "post",
+    "link": "https://posts.pages.com/forste-mote-i-fellesnemda-for-vestfold-og-telemark-fylkeskommune/",
+    "title": {
+      "rendered": "Første møte i fellesnemda for Vestfold og Telemark fylkeskommune"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://posts.pages.com/motekalender/mote-fellesnemnda/\">Her finner du møteinnkalling og saksliste for fellesnemnda.</a></p> <p>-Både for politikere og ikke minst for administrasjonen, er det viktig at fellesnemnda kommer opp og går, sier Rune Hogsnes, fylkesordfører i Vestfold.</p> <p>Det er Telemark som er vertskap for det første møtet som skal være i Langesund.</p> <p>Fylkesordfører Sven Tore Løkslid gleder seg til å starte prosessen med å bygge en ny fylkeskommune.</p> <p>– Nå er vi i gang! Jeg ser frem til å komme i gang og bygge noe nytt, sier Løkslid.</p> <h2>Saker på første møte</h2> <p>På det første møtet skal det blant annet velges leder og nestleder av fellesnemda, det skal oppnevnes temakomiteer, utnevnes tilsettingsutvalg og partssammensatt utvalg. Prosjektlederne, som foreløpig er fylkesrådmennene i de to fylkeskommunene, har også foreslått at fellesnemnda skal utarbeide et kort strategidokument som skal være det overordnede, foreløpige politiske grunnlaget fram til det nye fylkestinget utarbeider en mer omfattende, grundig og langsiktig plan</p> <p>Fellesnemnda består av 34 representanter hvor 18 kommer fra fylkestinget i Vestfold og 16 kommer fra fylkestinget i Telemark. De skal lede arbeidet med sammenslåingen frem til den nye fylkeskommunen blir en realitet 1. januar 2020. Nemndas funksjoner baseres på bestemmelsene i Inndelingslova.</p> <p>Se mer på nettsiden for sammenslåingsprosessen: <a href=\"https://vtfylke.no/\">https://vtfylke.no/</a>.</p> <h2><strong>Kontakt:</strong></h2> <p>Sven Tore Løkslid, fylkesordfører Telemark<br /> Tlf: 976 98 619</p> <p>Rune Hogsnes, fylkesordfører Vestfold<br /> Tlf: 916 33 552</p> <p><em>Tekst: Tom Marius Lorier Holen</em></p>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p class=\"lead\">21. mars møtes fellesnemnda for den nye fylkeskommunen til konstituerende møtet.</p>",
+      "protected": false
+    },
+    "author": 12,
+    "featured_media": 234,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [ ],
+    "categories": [
+      4,
+      30
+    ],
+    "tags": [ ],
+    "_links": {
+    "self": [
+      {
+        "href": "https://posts.pages.com/wp-json/wp/v2/posts/331"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://posts.pages.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://posts.pages.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://posts.pages.com/wp-json/wp/v2/users/12"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://posts.pages.com/wp-json/wp/v2/comments?post=331"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://posts.pages.com/wp-json/wp/v2/posts/331/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 394,
+        "href": "https://posts.pages.com/wp-json/wp/v2/posts/331/revisions/394"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://posts.pages.com/wp-json/wp/v2/media/234"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://posts.pages.com/wp-json/wp/v2/media?parent=331"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://posts.pages.com/wp-json/wp/v2/categories?post=331"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://posts.pages.com/wp-json/wp/v2/tags?post=331"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
