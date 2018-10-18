@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/telemark/tfk-search-index-wp.svg?branch=master)](https://travis-ci.com/telemark/tfk-search-index-wp)
+[![Build Status](https://travis-ci.org/telemark/tfk-search-index-wp.svg?branch=master)](https://travis-ci.org/telemark/tfk-search-index-wp)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # tfk-search-index-wp
